@@ -1,6 +1,6 @@
 ## Hi, I'm David 👋
 
-I am a **Business-intelligence Data Analyst** focused on using data to help businesses make better decisions.
+I am a **Data & Business-intelligence Analyst** focused on using data to help businesses make better decisions.
 
 I specialize in turning raw, messy data into clear insights using **Excel, SQL, and Power BI** — with strong emphasis on **sales performance, operations, and customer analysis**.
 
