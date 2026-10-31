@@ -35,3 +35,5 @@ Below are selected projects where I solved real business problems using data:
 ### 📫 Let’s Connect
 - LinkedIn: www.linkedin.com/in/
 davidojenabor
+- X: https://x.com/David_oje01
+- Email: davidojenabor04@gmail.com
