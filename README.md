@@ -25,7 +25,7 @@ I specialize in turning raw, messy data into clear insights using **Excel, SQL, 
 ### 📊 Featured Projects
 Below are selected projects where I solved real business problems using data:
 
-- **FastKart Order Report** – Identified regions with the fastest daily turnaround, order patterns that influence revenue growth 
+- **FastKart Order Report**(https://github.com/Davidojenabor/FastKart-Order-Report.git) – Identified regions with the fastest daily turnaround, order patterns that influence revenue growth 
 - **Business performance and sales insights dashboard**(https://github.com/Davidojenabor/Business-Performance-Sales-Insights-.git) – Analyzed which product drove higher or lower income efficiency, showed monthly fluctuations in sales and product activity, compared the income efficiency across global regions 
 
 👉 Click any repository to see the **problem statement, analysis, insights, and recommendations**.
